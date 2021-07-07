@@ -53,7 +53,7 @@
 
   "wallet": {
     "host": "localhost",
-    "port": 9332,
+    "port": 12332,
     "username": "darkcoinrpc",
     "password": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
   },
